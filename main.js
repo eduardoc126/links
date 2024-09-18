@@ -1,1 +1,0 @@
-btnn = document.getElementsByClassName('back-txt');
